@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/monikasleboda/Dicee-Game"><img src="images/screenshot.png" alt="screenshot"></a>
+</p>
+
 <h1 align="center">The Dicee Game</h1>
   <p align="center">Project for learning Document Object Model and JavaScript.</p>
 <br>
